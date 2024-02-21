@@ -12,13 +12,13 @@ body {
 html {
   font-size: 16px;
 }
-.untoldcoding {
+.mainclass {
   position: absolute;
   transform: translate(-50%, -50%);
   top: 50%;
   left: 50%;
 }
-.untoldcoding1 {
+.class1 {
   width: 70vmin;
   height: 70vmin;
   display: flex;
