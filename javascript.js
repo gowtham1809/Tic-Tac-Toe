@@ -64,7 +64,7 @@ const winChecker = () => {
       btnRef[i[2]].innerText,
     ];
     //Check if elements are filled
-    //If 3 empty elements are same and would give win as would
+    
     if (element1 != "" && (element2 != "") &&(element3 != "")) {
       if (element1 == element2 && element2 == element3) {
         //If all 3 buttons have same values then pass the value to winFunction
